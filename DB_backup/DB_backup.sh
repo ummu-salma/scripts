@@ -1,6 +1,8 @@
 #!/bin/bash
 
 ## This script is to take backup of a postgres Database from a container and then push it to S3 bucket.
+## Authors: Ummusalma
+## Version: 1.0.0 20230119
 
 #Configuration
 CONTAINER_NAME="container_name"
